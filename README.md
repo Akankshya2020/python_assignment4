@@ -18,3 +18,6 @@ Here 2,3 and 4 are the lengths of the words in the list.
 
 2.2 Write a Python function which takes a character (i.e. a string of length 1) and returns True if 
 it is a vowel, False otherwise.
+
+
+![Screenshot (45)](https://user-images.githubusercontent.com/73520463/162502667-cdccc4ed-056a-440a-9ff6-e140063ed9f6.png)
